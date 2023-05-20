@@ -1,9 +1,13 @@
 ## 👨‍💻 Quem sou eu? 👨‍💻
+
 <br>
+
 <p>🙋‍♂️ Olá, me chamo Victor! Eu sou desenvolvedor WEB e estudante de Ciência da Computação no <a href="https://www.ifsc.edu.br/">Instituto Federal de Santa Catarina.</a></p>
+
 <br>
 
 ## 🔎 O que você irá encontrar no meu Github 🔎
+
 <br>
 
 👨‍💻 Projetos em PHP e Laravel
@@ -13,13 +17,17 @@
 😵 Códigos aleatórios
 
 <br>
+
 ## Habilidades
+
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
 
 <br>
+
 ## Estou aprendendo
+
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
