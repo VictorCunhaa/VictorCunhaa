@@ -1,6 +1,3 @@
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 ## 👨‍💻 Quem sou eu? 👨‍💻
 
 🙋‍♂️ Olá, me chamo Victor! Eu sou desenvolvedor WEB e estudante de Ciência da Computação no <a href="https://www.ifsc.edu.br/">Instituto Federal de Santa Catarina.</a>
@@ -17,15 +14,17 @@
 
 ## Habilidades
 
-<i class="devicon-php-plain colored"></i> 
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-css3-plain colored"></i>
-<i class="devicon-bootstrap-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
 
 ## Estou aprendendo
 
-<i class="devicon-nodejs-plain colored"></i>
-<i class="devicon-java-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
