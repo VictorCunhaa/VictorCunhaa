@@ -1,6 +1,7 @@
 ## 👨‍💻 Quem sou eu? 👨‍💻
-
-<p margin-top: 100>🙋‍♂️ Olá, me chamo Victor! Eu sou desenvolvedor WEB e estudante de Ciência da Computação no <a href="https://www.ifsc.edu.br/">Instituto Federal de Santa Catarina.</a></p>
+<br>
+<br>
+<p>🙋‍♂️ Olá, me chamo Victor! Eu sou desenvolvedor WEB e estudante de Ciência da Computação no <a href="https://www.ifsc.edu.br/">Instituto Federal de Santa Catarina.</a></p>
 
 ## 🔎 O que você irá encontrar no meu Github 🔎
 
