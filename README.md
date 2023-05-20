@@ -1,3 +1,6 @@
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## 👨‍💻 Quem sou eu? 👨‍💻
 
 🙋‍♂️ Olá, me chamo Victor! Eu sou desenvolvedor WEB e estudante de Ciência da Computação no <a href="https://www.ifsc.edu.br/">Instituto Federal de Santa Catarina.</a>
