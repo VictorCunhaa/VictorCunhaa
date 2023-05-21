@@ -1,4 +1,4 @@
-![Bem-vindo](card)
+![bemvindo](https://github.com/VictorCunhaa/VictorCunhaa/assets/130084213/6e8ba7f5-2a2d-45e4-a539-9c54ad291774)
 
 ## 👨‍💻 Quem sou eu? 👨‍💻
 
