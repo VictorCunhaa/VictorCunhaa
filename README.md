@@ -18,7 +18,7 @@
 
 <br>
 
-## Habilidades
+## ⚙️ Habilidades ⚙️
 
 
 
@@ -26,7 +26,8 @@
 
 <br>
 
-## Estou aprendendo
+## 
+📚 Estou aprendendo 📚
 
 
 
