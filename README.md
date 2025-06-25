@@ -6,7 +6,7 @@
 
 
 
-🙋‍♂️ Olá, me chamo Victor! Eu sou desenvolvedor WEB e estudante de Ciência da Computação no [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/).
+🙋‍♂️ Olá, me chamo Victor! Eu sou DevOps e estudante de Sistemas de Informação na Uniplac.
 
 <br>
 
